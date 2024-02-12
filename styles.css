@@ -1,0 +1,52 @@
+        body {
+        	background-image: url(https://c4.wallpaperflare.com/wallpaper/932/891/825/hogwarts-legacy-video-games-dragon-owl-harry-potter-hd-wallpaper-preview.jpg);
+        	background-repeat: no-repeat;
+        	background-size: 1600px;
+        	border: 6px solid;
+        }
+
+        .title {
+            text-align: center;
+            color: whitesmoke;
+         }
+
+        .h1 {
+            font-size: 2.5em; /* Adjust the font size as needed */
+         }
+
+        .movie{
+            height: 200px;
+            width: 150px;
+		 }
+
+		.container{
+			text-align: center;
+		}
+
+		.synopsis{
+			height: 230px;
+			width: 300px;
+			font-size: 15px;
+		}
+
+		.cast{
+			font-size: 15px;
+
+		}
+
+		.review{
+			font-size: 15px;
+
+		}
+
+		.rating{
+			font-size: 15px;
+
+		}
+
+
+        table-table-bordered {
+           width: 80%;
+           margin: auto;
+           background-color: yellow
+        }
